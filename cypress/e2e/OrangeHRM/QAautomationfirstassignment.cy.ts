@@ -39,7 +39,7 @@ describe("First automation assignment ", () => {
             mySidebar.getPage('PIM').click();
 
             myPIMPage.elements.addBTN().click();
-            myAddEmployeePage.elements.employeeId().then(($el) => {
+            myAddEmployeePage.elements.employeeId().then(($el:any) => {
                 infoData.employeeId = $el[0]._value;
                 cy.request({
                     method: "POST",
