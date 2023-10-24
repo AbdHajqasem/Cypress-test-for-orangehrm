@@ -13,14 +13,14 @@
             "description":"Login using valid username and incorrect password"
         },
         {
-            "username":"kjkj",
+            "username":"3llawi",
             "password":"admin123",
             "message": "Invalid credentials",
             "description":"Login using invalid username and valid password"
         },
         {
-            "username":"klklk",
-            "password":"admin111",
+            "username":"3llawi",
+            "password":"admin122",
             "message": "Invalid credentials",
             "description":"Login using invalid username and invalid password"
         },
