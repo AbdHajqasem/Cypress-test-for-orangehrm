@@ -1,7 +1,38 @@
 {
-    "firstName": "abed",
-    "middleName": "osama",
-    "lastName": "hajqasem",
-    "userName": "abed1",
-    "password": "admin123"
-}
+    "firstName": "qbdaulwakareswem",
+    "middleName": "hajaqawasewsm",
+    "lastName": "osamamaaawasw",
+    "username": "llmlklkalkwalwklks",
+    "password": "admin123",
+    "entitlementInfo": {
+      "leaveTypeId": 6,
+      "entitlement": 6,
+      "fromDate": "2023-01-01",
+      "toDate": "2023-12-31"
+    },
+    "leaveInfo": {
+      "leaveTypeId": 6,
+      "fromDate": "2023-1-21",
+      "toDate": "2023-1-30",
+      "comment": null,
+      "duration": {
+        "type": "full_day"
+      }
+    },
+    "timesheets": {
+      "entries": [
+        {
+          "projectId": 2,
+          "activityId": 11,
+          "dates": {
+            "2023-10-23": {
+              "duration": "09:00"
+            }
+          }
+        }
+      ],
+      "deletedeEntries": [],
+      "id": 1
+    }
+  }
+  

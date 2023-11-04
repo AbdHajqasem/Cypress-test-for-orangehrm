@@ -107,5 +107,5 @@
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   },
 
-  "include":["**/*.ts"]
+  "include":["**/*.ts", "cypress/support/pageObjects/mainPages/Leave/ApplyLeavePage.ts"]
 }
